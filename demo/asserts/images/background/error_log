@@ -1,0 +1,3 @@
+[30-Nov-2019 07:10:26 UTC] PHP Notice:  Undefined index: name in /home/wbuei8z7h72i/public_html/GSRF.indiaprocess.com/images/background/background.php on line 9
+[30-Nov-2019 07:10:26 UTC] PHP Notice:  Undefined index: file in /home/wbuei8z7h72i/public_html/GSRF.indiaprocess.com/images/background/background.php on line 10
+[30-Nov-2019 07:10:26 UTC] PHP Warning:  file_put_contents(): Filename cannot be empty in /home/wbuei8z7h72i/public_html/GSRF.indiaprocess.com/images/background/background.php on line 13
